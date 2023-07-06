@@ -8,7 +8,7 @@ Chronosaurus is a powerful time tracking application tailored specifically for s
 - *Weekly Study Goals:* Set personalized study time goals for each task, empowering students to strive for consistent progress.
 - *Study Session Timer:* A built-in timer enables precise tracking of study sessions, associated with specific tasks, to monitor study time accurately.
 - *Progress Visualization:* Visual representations, such as charts and graphs, provide a comprehensive overview of students' study time progress throughout the week.
-- Notifications and Reminders: Customizable reminders keep students on track, ensuring they adhere to their study schedule and goals.
+- *Notifications and Reminders*: Customizable reminders keep students on track, ensuring they adhere to their study schedule and goals.
 - *Weekly Study Summaries:* Generate detailed reports summarizing study time, average study durations, and a comparison against set study goals.
 - *Insights and Analytics:* Gain valuable insights into study habits, including productive study times, average durations, and subject-specific patterns.
 - *Gamification and Rewards:* Implement gamification elements, such as study streaks and rewards, to make studying engaging and motivating.
